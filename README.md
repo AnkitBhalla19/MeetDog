@@ -1,5 +1,2 @@
-<<<<<<< HEAD
-# MeetDog
-=======
-TinDog Starting Files
->>>>>>> f203928 (first_Commit)
+A Front-End based dating website for dogs.
+
